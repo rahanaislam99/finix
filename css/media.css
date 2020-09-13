@@ -215,10 +215,15 @@ ul.our_primary_menu li ul li ul li{
 
 /* // X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
+
 	.slider_content_wrap {
-	height: 450px;}
+	height: 500px;
+}
 	.tmi {
 	float: inherit;
+}
+.footer_widget h6 {
+ width: 100%;
 }
 
 }
